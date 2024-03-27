@@ -25,6 +25,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0d48df40-86b6-a1e2-07c8-63d9889c1046": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Floor Half.mesh.nasset/Floor Half.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "11867396-f9fc-cc61-afc3-2bb0dd6db28b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -129,6 +136,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "2fdd8fb4-8976-2abe-24b3-c7abb79255a8": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Stone Support.mesh.nasset/Stone Support Mini Dungeon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aa41abcf-9c3f-d810-5d06-30919d055414",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "36244cbc-ecd0-dbe0-5324-6278b8144dcf": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -159,6 +178,13 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3ea00fa9-3699-2478-117a-41eae82ebcd9": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Stone Support.mesh.nasset/Stone Support.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "3ef8adef-4b38-a29c-c0c8-4ad2d1403263": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -174,6 +200,13 @@
     "417d6d51-a7d3-5368-a6a6-2323ea0e96f9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Wall Narrow.mesh.nasset/Thumbnails/Wall Narrow.mesh.nasset.tex.nasset"
+    },
+    "43377bef-a8ef-ab3c-e3b5-8adc93f9634f": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Dirt Half.mesh.nasset/Dirt Half.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "4c8b1c3d-eb9e-5074-04e9-ad1e4e38268d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -266,6 +299,18 @@
     "59b042a1-0f9a-0656-a14b-e598609651d4": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Chest.mesh.nasset/Thumbnails/Chest.mesh.nasset.tex.nasset"
+    },
+    "59d6fc36-238c-26ad-bd09-491c9bffeeaf": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Dirt Cube.mesh.nasset/Dirt Cube Mini Dungeon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aa41abcf-9c3f-d810-5d06-30919d055414",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "680da5a7-5fed-3ddc-8461-4d48671d8aa5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -539,6 +584,18 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b80e8d35-8ab6-bbe7-5cfe-dab77e9ad275": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Floor Half.mesh.nasset/Floor Half Mini Dungeon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aa41abcf-9c3f-d810-5d06-30919d055414",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "b8da8ba3-a7ff-b409-f698-04b1febc6184": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Column.mesh.nasset/Thumbnails/Column.mesh.nasset.tex.nasset"
@@ -547,6 +604,13 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Mini_Dungeon_EnviroSpecular.tex.nasset"
     },
+    "bcfa240d-9c3d-8b0f-cce7-18597a50b2e1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Dirt Cube.mesh.nasset/Dirt Cube.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
     "c0dbca16-59d2-4a75-f18e-81c129a77666": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Gate.mesh.nasset/Thumbnails/Gate.mesh.nasset.tex.nasset"
@@ -554,6 +618,18 @@
     "c5ffa588-ad5a-69aa-69b5-55c83e2b41c9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Trap.mesh.nasset/Thumbnails/Trap.mesh.nasset.tex.nasset"
+    },
+    "c8422a2c-cc7b-5820-fb2e-15c9ec5fdd68": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Objects/SC_Mini_Dungeon.scene.nasset/Dirt Half.mesh.nasset/Dirt Half Mini Dungeon.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "aa41abcf-9c3f-d810-5d06-30919d055414",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "cb603cb3-da53-74be-5772-9d8c81f63d97": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
